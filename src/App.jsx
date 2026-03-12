@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef } from "react";
+import { useState, useRef } from "react";
 
 const SYSTEM_PROMPT = `You are an expert aviation examiner for EASA Flight Dispatcher certification. 
 You generate adaptive quiz questions on Navigation, Meteorology, and Flight Dispatcher concepts under EASA framework.
